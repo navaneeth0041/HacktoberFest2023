@@ -1,3 +1,3 @@
 # HacktoberFest2023
 
-My repository is amazing
+Made by Navaneeth B
